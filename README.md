@@ -1,3 +1,3 @@
 # BusinessAnalysis
-This is repository about BusinesAnalysis
-includes image
+This is repository about BusinesAnalysis.
+It includes image
